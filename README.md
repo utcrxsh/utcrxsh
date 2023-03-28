@@ -9,7 +9,7 @@ Hi, I'm Utkarsh Nautiyal!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-<img align="left" src="https://github.com/utkarshnautiyal/utkarshnautiyal/blob/af6ffe87d7d570d51709dbf78d406896c213f58c/meh.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<!-- <img align="left" src="https://github.com/utkarshnautiyal/utkarshnautiyal/blob/af6ffe87d7d570d51709dbf78d406896c213f58c/meh.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> -->
 <hr>
 
 ```
@@ -20,7 +20,7 @@ utkarshnautiyal@github
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: C++, Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in Full Stack Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
@@ -116,7 +116,7 @@ utkarshnautiyal@github
 
 <table style="border: none">
   <tr>
-  <td width="50%" valign="top">
+  <td width="100%" valign="top">
 
 ## Let's Work on Your Project Together!
 

@@ -90,13 +90,13 @@ utkarshnautiyal@github
 |                                                                     Utkarsh's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  
-| ![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utkarshnautiyal&show_icons=true&theme=algolia)              | 
-| ![Utkarsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarshnautiyal&theme=algolia)                    | 
+| ![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utcrxsh&show_icons=true&theme=algolia)              | 
+| ![Utkarsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utcrxsh&theme=algolia)                    | 
     
 
 |                                                                                                      Utkarsh's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=utkarshnautiyal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshnautiyal&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=utcrxsh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utcrxsh&langs_count=8&theme=algolia&layout=compact) |
 
 <br>
 
@@ -104,8 +104,8 @@ utkarshnautiyal@github
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:utkarshnautiyal321@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/utkarshnautiyal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/utkarsh-nautiyal-429477220/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://github.com/utcrxsh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/utkarshnautiyal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<!-- <a href="https://twitter.com/jay_pavasiya"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> -->
 	<!-- <a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a> -->
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>

@@ -7,7 +7,7 @@ Hi, I'm Utkarsh Nautiyal!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;ML%20Enthusiastic;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <!-- <img align="left" src="https://github.com/utkarshnautiyal/utkarshnautiyal/blob/af6ffe87d7d570d51709dbf78d406896c213f58c/meh.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> -->
 <hr>
@@ -90,8 +90,8 @@ utkarshnautiyal@github
 	<a href="mailto:utkarshnautiyal321@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/utcrxsh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/utkarshnautiyal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<!-- <a href="https://twitter.com/jay_pavasiya"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> -->
-	<!-- <a href="https://stackoverflow.com/users/13516564/jay"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a> -->
+	<!-- <a href="https://twitter.com/utkarsh"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a> -->
+	<!-- <a href="https://stackoverflow.com/"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a> -->
 	<!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 	
@@ -104,7 +104,7 @@ utkarshnautiyal@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, feel free to contact me.
+Passionate about machine learning and always open to exciting projects, research collaborations, or just exchanging ideas. Feel free to reach out — let’s innovate together.
   </td>
  
 

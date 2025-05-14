@@ -73,9 +73,9 @@ utkarshnautiyal@github
 
 ## GitHub Stats
 
-| Utkarsh's Stats | Utkarsh's GitHub Streak |
-|:----------------:|:-----------------------:|
-| ![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utcrxsh&show_icons=true&theme=algolia) | ![Utkarsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utcrxsh&theme=algolia) |
+| Utkarsh's GitHub Streak |
+|:-----------------------:|
+ ![Utkarsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utcrxsh&theme=algolia) |
 <br>
 
 | Utkarsh's Stars | Top Languages |
